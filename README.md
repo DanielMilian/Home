@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Milián</h1>
 <h3 align="center">Trying to consolidate and sharpen my programming skills for Data Science</h3>
 
-- 🌱 I’m currently learning **Machine Learning and LLM PRocessing**
+- 🌱 I’m currently learning **Machine Learning and LLM Processing**
 
 - 📫 How to reach me **danielmilian@outlook.com**
 
