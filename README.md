@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Daniel Milián</h1>
 <h3 align="center">Trying to consolidate and sharpen my programming skills for Data Science</h3>
 
-- 🌱 I’m currently learning **Machine Learning and LLM Processing**
+I’m a Data Analyst transitioning into Data Science, passionate about leveraging data to drive decisions and build intelligent solutions. My background includes working with SQL, Excel (advanced tools & VBA), Python, and data visualization (Tableau, Power BI).
+
+🌱 Currently expanding my skills in:
+
+Machine Learning – predictive modeling, classification, regression, and statistical analysis
+
+Cloud Computing – hands-on experience with Oracle Cloud, now learning Google Cloud
+
+MLOps – exploring workflows for model deployment, automation, and monitoring
+
+💡 What I enjoy:
+
+Exploring large and complex datasets
+
+Designing dashboards and reports for clear insights
+
+Building data pipelines and learning to bring ML models into production
 
 - 📫 How to reach me **danielmilian@outlook.com**
 
