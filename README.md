@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Milián 👋
+# Hi, I'm Daniel Milián
 
 **Business engineer building data products**, from raw source to the decision it informs.
 
@@ -38,7 +38,7 @@ Pooled multi-series LSTM (PyTorch, store/SKU embeddings) forecasting weekly dema
 | **Data engineering** | Airflow, dbt, Kafka, PostgreSQL, Docker, pandas, FastAPI |
 | **ML & AI** | PyTorch, scikit-learn, LangGraph |
 | **Cloud & tools** | Oracle Cloud (OCI), Supabase, Streamlit, Git/GitHub, Linux |
-| **Analytics & BI** | Tableau, Plotly, Excel |
+| **Analytics & BI** | Tableau, Plotly, Excel, Streamlit |
 
 ## Certifications
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional
